@@ -1,7 +1,7 @@
 # GXP2135プロビジョン用電話機一覧ファイル
 #
 # 下記の順序でカンマ区切りで記述のこと
-# MAC,DISPNAME,SIPSERVER,SIPUSERNAME,SIPPASSWORD,PROVSERVER
+# MAC,DISPNAME,SIPSERVER,SIPUSERNAME,SIPPASSWORD
 #
 000b82xxxxxx,201,192.168.1.1:5070,phone1,xxyyzzxxyyzzyyxxyyyxxyxyyzzyyxx
 000b82xxxxxx,202,192.168.1.1:5070,phone2,xxyyzzxxyyzxxxyzzzyxxxzyxxxyzxx
