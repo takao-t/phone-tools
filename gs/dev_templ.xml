@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Grandstream XML Provisioning Configuration -->
+<gs_provision version="1">
+<mac>##MACADDR##</mac>
+  <config version="1">
+    <P4511>##UMACADDR##</P4511>
+    <P35>##SIPUSERNAME##</P35>
+    <P36>##SIPUSERNAME##</P36>
+    <P47>##SIPSERVER##</P47>
+    <P48>##SIPSERVER##</P48>
+    <P270>##DISPNAME##</P270>
+    <P3>##DISPNAME##</P3>
+    <P8364>gxp2135_##MACADDR##-0</P8364>
+    <P34>##SIPPASSWORD##</P34>
+  </config>
+</gs_provision>
