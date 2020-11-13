@@ -1,4 +1,4 @@
-GXP2135プロビジョン
+GXP2130/GXP2135 プロビジョン
 
 cfg.xml 共通設定ファイル
 ↓
@@ -10,3 +10,5 @@ cfg{MACaddress].xml 各端末情報設定ファイル(SIPアカウント等)
 
  cfggxp2135.xml - パークx8 設定
  cfggxp2135_keysample.xml - ラインx4、パークx4
+
+ cfggxp2130.xml - GXP2130 MPK用サンプル
