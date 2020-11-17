@@ -3,6 +3,14 @@
 <gs_provision version="1">
   <config version="1">
     <P148>Grandstream GXP2135</P148>
+    <!-- Backlight Brightness. Active -->
+    <P334>100</P334>
+    <!-- Backlight Brightness. Idle -->
+    <P335>10</P335>
+    <!-- Backlight timeout -->
+    <P8356>1</P8356>
+    <!-- Missed Call Backlight -->
+    <P351>0</P351>
     <!-- Wall paper -->
     <P2916>0</P2916>
     <!-- Screen Saver -->
